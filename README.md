@@ -29,6 +29,7 @@
  </br>
 
  <h2>How can you perform data modification using UPDATE statements<h2>
+ 
  <p>specify the name of the table that I want to update data after the UPDATE keyword. Second, specify columns and their new values after SET keyword. The columns that do not appear in the SET clause retain their original values. Third, determine which rows to update in the condition of the WHERE clause</p>
 
  </br>
